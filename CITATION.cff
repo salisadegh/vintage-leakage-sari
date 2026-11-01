@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Vintage leakage in SARI forecasting: a vintage-pinned evaluation on ECDC ERVISS data"
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+authors:
+  - name: "The vintage-leakage-sari authors"
+keywords:
+  - data leakage
+  - surveillance data revisions
+  - SARI
+  - forecasting evaluation
+  - reproducibility

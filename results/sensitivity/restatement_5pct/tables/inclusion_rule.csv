@@ -1,0 +1,17 @@
+countryname,level_shift,weeks_since_last_report,restatement_gt_10,zero_first_share,fail_level_shift,fail_restatement,fail_zero_first,fail_stale,included,sensitivity_set,nonstale
+Austria,1.189516129032258,2.5714285714285716,0.0,0.0,False,False,False,False,True,True,True
+Belgium,1.957446808510638,2.5714285714285716,0.5131578947368421,0.0,False,True,False,False,False,True,True
+Croatia,1.1764705882352942,122.57142857142857,,,False,False,False,True,False,False,False
+Cyprus,5.09375,2.5714285714285716,0.06349206349206349,0.0375,False,True,False,False,False,True,True
+Estonia,1.472,5.571428571428571,0.0,0.0,False,False,False,False,True,True,True
+Germany,1.134920634920635,1.5714285714285714,0.0,0.0,False,False,False,False,True,True,True
+Greece,1156.735294117647,2.5714285714285716,0.5256410256410257,0.0,True,True,False,False,False,False,True
+Iceland,1.0,40.57142857142857,,,False,False,False,True,False,False,False
+Ireland,2.393939393939394,1.5714285714285714,0.5256410256410257,0.0,False,True,False,False,False,True,True
+Latvia,1172.894117647059,1.5714285714285714,0.3888888888888889,0.0,True,True,False,False,False,False,True
+Lithuania,1.0,114.57142857142857,,,False,False,False,True,False,False,False
+Luxembourg,1.0,1.5714285714285714,0.041666666666666664,0.0,False,False,False,False,True,True,True
+Malta,1.1714285714285713,1.5714285714285714,0.0,0.0,False,False,False,False,True,True,True
+Romania,1.2608695652173914,1.5714285714285714,0.34782608695652173,0.0,False,True,False,False,False,True,True
+Slovakia,1.0,1.5714285714285714,0.0,0.9310344827586207,False,False,True,False,False,True,True
+Spain,1.153225806451613,1.5714285714285714,0.0,0.0,False,False,False,False,True,True,True

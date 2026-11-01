@@ -1,0 +1,11 @@
+h,arm,order,MAE_persistence,MAE_ridge,MAE_gbm
+1,A_retrospective,ridge < persistence < gbm,0.12241003789873724,0.12153959461739516,0.12334874735647089
+1,B_realtime,ridge < gbm < persistence,0.5993032977249755,0.4774137318657501,0.5141750037674915
+1,C_realtime_corrected,ridge < gbm < persistence,0.2451144247079976,0.19574921950681892,0.20121589353437416
+1,D_vintage_trained,ridge < gbm < persistence,0.5993032977249755,0.24539247360439817,0.274863918253497
+1,P(leader under A differs from leader under B),0.593,,,
+2,A_retrospective,ridge < gbm < persistence,0.1612222785790586,0.15092798724872833,0.15237970342560767
+2,B_realtime,ridge < gbm < persistence,0.5977334730116133,0.4712562266903784,0.5008214340004753
+2,C_realtime_corrected,ridge < gbm < persistence,0.26232511267816294,0.21172206466481416,0.2118299249328457
+2,D_vintage_trained,ridge < gbm < persistence,0.5977334730116133,0.2583996695759891,0.3017229819260306
+2,P(leader under A differs from leader under B),0.429,,,

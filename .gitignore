@@ -1,0 +1,7 @@
+# Downloaded ECDC files: fetch with fetch_data.py (verified against manifest_SARIRates.csv)
+data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
